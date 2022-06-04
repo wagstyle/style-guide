@@ -1,1 +1,1 @@
-# style-guide-java
+# style-guide
